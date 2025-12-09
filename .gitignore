@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.vscode/*
+
+# Depth Anything V2 original repository (cloned)
+DepthAnythingV2/
+
+# Model checkpoints (large files)
+checkpoints/
